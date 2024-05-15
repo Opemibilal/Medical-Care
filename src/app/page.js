@@ -5,6 +5,7 @@ import Services from './component/Services'
 import Ourstory from './component/ourstory'
 import WeWork from './component/WeWork'
 import Testimonials from './component/Testimonials'
+import Med from './component/Med'
 
 function page() {
   return (
@@ -15,6 +16,7 @@ function page() {
       <Ourstory/>
       <WeWork/>
       <Testimonials/>
+      <Med/>
     </div>
   )
 }
