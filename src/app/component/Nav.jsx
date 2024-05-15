@@ -34,7 +34,7 @@ function Nav() {
                 </ul>
             </div>
             <div>
-                <button className='bg-blue-400 w-32 h-10 rounded-md text-white shadow-lg'>Join Us</button>
+                <button className='bg-gradient-to-r from-blue-600 to-blue-300 w-32 h-10 rounded-md text-white shadow-lg'>Join Us</button>
             </div>
         </nav>
     </div>

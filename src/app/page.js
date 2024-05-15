@@ -4,6 +4,7 @@ import HeroSection from './component/HeroSection'
 import Services from './component/Services'
 import Ourstory from './component/ourstory'
 import WeWork from './component/WeWork'
+import Testimonials from './component/Testimonials'
 
 function page() {
   return (
@@ -13,6 +14,7 @@ function page() {
       <Services/>
       <Ourstory/>
       <WeWork/>
+      <Testimonials/>
     </div>
   )
 }
