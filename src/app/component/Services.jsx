@@ -27,7 +27,7 @@ function Services() {
     return (
         <div className='pt-[23rem]'>
             <div  className='flex flex-col justify-center items-center'>
-                <h1 className='  text-4xl text-gray-700 font-semibold '>Top <span className='text-transparent bg-gradient-to-r from-blue-400 to-blue-700  bg-clip-text'>services</span>  we offer</h1>
+                <h1 className='  text-4xl text-gray-700 font-semibold pt-20 '>Top <span className='text-transparent bg-gradient-to-r from-blue-400 to-blue-700  bg-clip-text'>services</span>  we offer</h1>
                 <p className=' w-[35rem] text-sm pt-3 text-gray-400'>In today's fast paced world, your health deserves the utmost attention and convenience.That's why HeadNet offers a suite of intergrated services designed to cater your healthcare needs degitally. </p>
             </div>
             <div>

@@ -6,6 +6,7 @@ import Ourstory from './component/ourstory'
 import WeWork from './component/WeWork'
 import Testimonials from './component/Testimonials'
 import Med from './component/Med'
+import Help from './component/Help'
 
 function page() {
   return (
@@ -17,6 +18,7 @@ function page() {
       <WeWork/>
       <Testimonials/>
       <Med/>
+      <Help/>
     </div>
   )
 }

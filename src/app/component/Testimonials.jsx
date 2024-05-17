@@ -74,7 +74,7 @@ function Testimonials() {
               “The prescription refill system is a game-changer for managing my
               diabetes. It’s really efficient and completely hassle-free.”{" "}
               <span className="text-md text-gray-700 font-semibold">
-                - Joshua T..
+                - Joshua T.
               </span>
             </p>
           </div>
